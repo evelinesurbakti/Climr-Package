@@ -30,7 +30,8 @@ library(readr)
 
 
 ## Try it!
-On your console:
+
+After install, check and build the package, you can __try it__ on your console:
 
 data1 <- load_clim(“NH”)
 
