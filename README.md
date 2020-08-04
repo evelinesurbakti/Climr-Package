@@ -2,11 +2,11 @@
 The package can be used to analyze and plot the latest global hemispheric climate data
 
 ## Data Set
-http://data.giss.nasa.gov/gistemp/tabledata_v3/GLB
+http://data.giss.nasa.gov/gistemp/tabledata_v3/GLB.Ts+dSST.csv
 
-http://data.giss.nasa.gov/gistemp/tabledata_v3/NH
+http://data.giss.nasa.gov/gistemp/tabledata_v3/NH.Ts+dSST.csv
 
-http://data.giss.nasa.gov/gistemp/tabledata_v3/SH
+http://data.giss.nasa.gov/gistemp/tabledata_v3/SH.Ts+dSST.csv
 
 ## Required R Packages
 library(devtools)
