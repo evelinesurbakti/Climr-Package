@@ -8,6 +8,7 @@ http://data.giss.nasa.gov/gistemp/tabledata_v3/NH.Ts+dSST.csv
 
 http://data.giss.nasa.gov/gistemp/tabledata_v3/SH.Ts+dSST.csv
 
+
 ## Required R Packages
 library(devtools)
 library(roxygen2)
@@ -19,12 +20,14 @@ library(ggplot2)
 library(viridis) 
 library(readr) 
 
+
 ## What's on?
 - __load_clim__ to load the climate data.
 - __fit.climr__ to fit the data into the regression model.
 - __plot.climrfit__ to plot the predicted data and real data. 
 - __gp_fit__ to fit the to fit the hyperparameters of the Gaussian process with the optimisation method.
 - __plot.climr_gp_fit__ to plot the predicted data by Gaussian process and real data.
+
 
 ## Try it!
 On your console:
